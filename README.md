@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @otaku-leelu
+- 👋 Hi, I’m Leela Sankhar
 - 👀 I’m interested in anime, startups
 - 🌱 I’m currently learning python and data science for academic purpose  
 - 💞️ I’m looking to collaborate on intresting projects/start up ideas
