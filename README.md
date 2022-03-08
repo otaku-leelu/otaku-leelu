@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on intresting projects/start up ideas
 - 📫 Reach me via [Twitter](https://twitter.com/otaku_leelu)
 --->
--nothing much to say! still hustling man 🥲
+-nothing much to say! still hello worlding 🥲
 
 -update(8-march-2022):i often question why i and this github profile exist. 
 <!---
