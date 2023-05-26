@@ -11,4 +11,4 @@ otaku-leelu/otaku-leelu is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://github.com/otaku-leelu/otaku-leelu/assets/91820515/bfb03166-61b1-4118-8bcb-b16fa9688c99)
+![guaton-computadora](https://github.com/otaku-leelu/otaku-leelu/assets/91820515/7d6e2e81-0703-4d19-a524-1198cf385873)
